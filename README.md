@@ -1,1 +1,2 @@
-![image](https://github.com/CaioLariel/getSmallestWordProblem/assets/112914813/e809701a-e583-4a88-b49a-f3f1dabb1a12)
+![image](https://github.com/CaioLariel/getSmallestWordProblem/assets/112914813/9de3da04-d398-4a24-a764-f471059bff2d)
+return console
